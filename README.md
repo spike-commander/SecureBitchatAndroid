@@ -104,3 +104,7 @@ Each message uses a unique encryption key derived from:
 ## License
 
 Public domain - See LICENSE file
+
+##Author
+
+ABDUL HAIY aka [spike-commander](https://github.com/spike-commander)

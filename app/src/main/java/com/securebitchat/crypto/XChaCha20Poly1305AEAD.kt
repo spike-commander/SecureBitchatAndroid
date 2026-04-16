@@ -9,7 +9,6 @@ import javax.crypto.spec.SecretKeySpec
 
 /**
  * XChaCha20-Poly1305 AEAD Implementation
- * 
  * Provides authenticated encryption with additional data for packet integrity.
  * Uses AES-GCM as the underlying implementation (ChaCha20-Poly1305 when native libsodium is available).
  */

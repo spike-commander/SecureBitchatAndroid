@@ -105,6 +105,6 @@ Each message uses a unique encryption key derived from:
 
 Public domain - See LICENSE file
 
-##Author
+## Author
 
 ABDUL HAIY aka [spike-commander](https://github.com/spike-commander)

@@ -11,7 +11,6 @@ import javax.crypto.spec.SecretKeySpec
 
 /**
  * Double Ratchet Service
- * 
  * Implements Double Ratchet algorithm for forward-secret messaging.
  * Uses AES-256-GCM for encryption with unique keys per message.
  */

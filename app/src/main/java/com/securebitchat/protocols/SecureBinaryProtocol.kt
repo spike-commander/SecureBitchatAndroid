@@ -9,7 +9,6 @@ import java.util.zip.Inflater
 
 /**
  * Secure Binary Protocol
- * 
  * Hardened binary encoding/decoding for BitChat protocol messages.
  * Implements all security fixes:
  * 1. Buffer overflow protection for signatures
